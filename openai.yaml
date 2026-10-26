@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 通用场景搭建"
+  short_description: "搭建与迭代各类三维场景，按需完成材质、灯光、镜头、动画及交付核验"
+  default_prompt: "使用 $blender-build-and-render 根据我的需求搭建或迭代三维场景，按需完成材质、灯光、镜头或动画，并验证实际交付成果。"

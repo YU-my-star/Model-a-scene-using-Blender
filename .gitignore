@@ -1,0 +1,28 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated project files, caches, and render output
+/work/
+/output/
+/renders/
+/cache/
+*.blend
+*.blend[0-9]*
+*.bphys
+*.exr
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
